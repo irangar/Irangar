@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramindu%20Iranga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ICT%20Graduated%20|%20Software%20and%20|%20Network%20Engineer&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramindu%20Iranga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ICT%20Graduated%20|%20Software%20|%20Network%20Engineer&descAlignY=52&descSize=18"/>
 
 <!-- Typing SVG -->
 
