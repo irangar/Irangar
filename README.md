@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=ICT+Undergraduate+%7C+Software+Developer;ReactJS+%7C+Flutter+%7C+.NET+Developer;IoT+%7C+Networking+Enthusiast;Building+Smart+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=BICT+Graduated+%7C+Software+Network+Engineer;ReactJS+%7C+Flutter+%7C+.NET+Developer;IoT+%7C+Networking+Enthusiast;Building+Smart+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Social Badges -->
 <p>
